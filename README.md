@@ -1,3 +1,4 @@
+![logo](https://github.com/Singhrishabh0/singhrishabh/blob/main/banner.org.png)
 <h1 align="center">Hi 👋, I'm Rishabh singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="cooding"width="400"src=https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180
